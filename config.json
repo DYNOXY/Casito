@@ -2,18 +2,18 @@
   "TOKEN": "ODg5ODA5MTA2NTk5MjkyOTM4.YUmpTg.X07OPvBwsHGUraVeG8UEZC23_QU",
   "PREFIX": "c!",
   "OWNERS": ["537194359154671616"],
-  "topgg": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg2MDIzMTI0NzA5NTM5ODQwMCIsImJvdCI6dHJ1ZSwiaWF0IjoxNjI3ODE1MzgxfQ.7_XvO59Bc7hZ2GGIQoue6VR4AsE7GPIdW-pYNUXn_BE",
+  "topgg": "",
   "geniusApiKey": "FkZsmSu-MExDPswHjxH9gQwLoIc77RRwXkI-t8omLjsobkALv4zcMsN_2xAfpPgx",
   "MONGO_URI": "mongodb://localhost:27017/Casito?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false",
   "DB_NAME": "Casito",
-  "log": "860389960938422343",
-  "clientID": "706e9d747601475b87a953ac21d33710",
-  "clientSecret": "f671279b0f184a4cbd0e2c3cdd274a55",
+  "log": "",
+  "clientID": "",
+  "clientSecret": "",
   "links": {
-    "supportServer": "https://discord.gg/jKmH2aWRFb",
-    "communityServer": "https://discord.gg/j35bUj2YAT",
-    "premium": "https://discord.gg/jKmH2aWRFb",
-    "invite": "https://discord.com/api/oauth2/authorize?client_id=889809106599292938&permissions=7696208&scope=bot%20applications.commands"
+    "supportServer": "",
+    "communityServer": "",
+    "premium": "",
+    "invite": ""
   },
   "images": {
     "banner": "https://media.discordapp.net/attachments/894951256538382346/895186024324538378/g4au_t8ix_210816.jpg",
@@ -21,22 +21,22 @@
   },
   "nodes": [
     {
-      "host": "lavalink-repl.parasop.repl.co",
-      "port": 443,
-      "password": "youshallnotpass",
+      "host": "",
+      "port": 6969,
+      "password": "",
       "youtube search": true,
       "secure": true
     },
     {
-      "host": "lava.link",
-      "port": 80,
-      "password": "youshallnotpass",
+      "host": "",
+      "port": 6969,
+      "password": "",
       "youtube search": true
     },
     {
-      "host": "main.paras888.repl.co",
-      "port": 443,
-      "password": "youshallnotpass",
+      "host": "",
+      "port": 6969,
+      "password": "",
       "youtube search": true,
       "secure": true
     }
